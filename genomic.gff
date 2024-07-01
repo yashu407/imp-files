@@ -1,0 +1,21 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM478661v1
+#!genome-build-accession NCBI_Assembly:GCF_004786615.1
+##sequence-region NC_075404.1 1 15186
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2560319
+NC_075404.1	RefSeq	region	1	15186	.	+	.	ID=NC_075404.1:1..15186;Dbxref=taxon:2560319;country=United Kingdom: N. Ireland;gbkey=Src;genome=genomic;isolate=chicken/N. Ireland/Ulster/67;mol_type=genomic RNA;old-name=Newcastle disease virus
+NC_075404.1	RefSeq	gene	56	1801	.	+	.	ID=gene-QKC91_gp1;Dbxref=GeneID:80527638;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=QKC91_gp1
+NC_075404.1	RefSeq	CDS	122	1591	.	+	0	ID=cds-YP_010790286.1;Parent=gene-QKC91_gp1;Dbxref=GenBank:YP_010790286.1,GeneID:80527638;Name=YP_010790286.1;gbkey=CDS;gene=N;locus_tag=QKC91_gp1;product=nucleoprotein;protein_id=YP_010790286.1
+NC_075404.1	RefSeq	gene	1804	3254	.	+	.	ID=gene-QKC91_gp2;Dbxref=GeneID:80527633;Name=P;gbkey=Gene;gene=P;gene_biotype=protein_coding;locus_tag=QKC91_gp2
+NC_075404.1	RefSeq	CDS	1887	3074	.	+	0	ID=cds-YP_010790287.1;Parent=gene-QKC91_gp2;Dbxref=GenBank:YP_010790287.1,GeneID:80527633;Name=YP_010790287.1;gbkey=CDS;gene=P;locus_tag=QKC91_gp2;product=phosphoprotein;protein_id=YP_010790287.1
+NC_075404.1	RefSeq	gene	3256	4496	.	+	.	ID=gene-QKC91_gp3;Dbxref=GeneID:80527634;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=QKC91_gp3
+NC_075404.1	RefSeq	CDS	3290	4384	.	+	0	ID=cds-YP_010790288.1;Parent=gene-QKC91_gp3;Dbxref=GenBank:YP_010790288.1,GeneID:80527634;Name=YP_010790288.1;gbkey=CDS;gene=M;locus_tag=QKC91_gp3;product=matrix protein;protein_id=YP_010790288.1
+NC_075404.1	RefSeq	gene	4498	6289	.	+	.	ID=gene-QKC91_gp4;Dbxref=GeneID:80527635;Name=F;gbkey=Gene;gene=F;gene_biotype=protein_coding;locus_tag=QKC91_gp4
+NC_075404.1	RefSeq	CDS	4544	6205	.	+	0	ID=cds-YP_010790289.1;Parent=gene-QKC91_gp4;Dbxref=GenBank:YP_010790289.1,GeneID:80527635;Name=YP_010790289.1;gbkey=CDS;gene=F;locus_tag=QKC91_gp4;product=fusion protein;protein_id=YP_010790289.1
+NC_075404.1	RefSeq	gene	6321	8322	.	+	.	ID=gene-QKC91_gp5;Dbxref=GeneID:80527636;Name=HN;gbkey=Gene;gene=HN;gene_biotype=protein_coding;locus_tag=QKC91_gp5
+NC_075404.1	RefSeq	CDS	6412	8262	.	+	0	ID=cds-YP_010790290.1;Parent=gene-QKC91_gp5;Dbxref=GenBank:YP_010790290.1,GeneID:80527636;Name=YP_010790290.1;gbkey=CDS;gene=HN;locus_tag=QKC91_gp5;product=hemagglutinin-neuraminidase;protein_id=YP_010790290.1
+NC_075404.1	RefSeq	gene	8370	15072	.	+	.	ID=gene-QKC91_gp6;Dbxref=GeneID:80527637;Name=L;gbkey=Gene;gene=L;gene_biotype=protein_coding;locus_tag=QKC91_gp6
+NC_075404.1	RefSeq	CDS	8381	14995	.	+	0	ID=cds-YP_010790291.1;Parent=gene-QKC91_gp6;Dbxref=GenBank:YP_010790291.1,GeneID:80527637;Name=YP_010790291.1;gbkey=CDS;gene=L;locus_tag=QKC91_gp6;product=RNA-dependent RNA polymerase;protein_id=YP_010790291.1
+###
